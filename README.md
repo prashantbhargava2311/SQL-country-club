@@ -1,2 +1,2 @@
 # SQL-country-club
-Answering some SQL question with SQLite and using Python 
+Answering some SQL question using SQLite and using Python 
